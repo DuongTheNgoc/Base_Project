@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Hyundai Universe 45C",
+    "price": 1000000,
+    "description": "Hyundai Universe 2022 là dòng xe khách cỡ lớn cao cấp nhất của Hyundai đươc thiết kế sang trọng và tinh tế đến từng chi tiết, trang bị cao cấp và tiện nghi, mang lại sự thoải mái tối đa cho hành khách.\r\n\r\n",
+    "shortDescription": "Hyundai Universe Nội thất rộng rãi, đẳng cấp..\r\n\r\n",
+    "quantity": 2,
+    "image": "https://i.ytimg.com/vi/wj0HynDYvz0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDhkuKfvNlTvZs6LsJN2F_Z0ZRd5w",
+    "hieuxe": "Huyndai"
+  },
+  {
+    "id": 6,
+    "name": "Thaco Prime 45C",
+    "price": 1000000,
+    "description": "Hyundai Universe 2022 là dòng xe khách cỡ lớn cao cấp nhất của Hyundai đươc thiết kế sang trọng và tinh tế đến từng chi tiết, trang bị cao cấp và tiện nghi, mang lại sự thoải mái tối đa cho hành khách.\r\n\r\n",
+    "shortDescription": "Hyundai Universe Nội thất rộng rãi, đẳng cấp...\r\n\r\n",
+    "quantity": 5,
+    "image": "https://muabanxekhach.com.vn/wp-content/uploads/2019/04/universe-nhap-khau-han-quoc.jpg",
+    "hieuxe": "Thaco"
+
+  },
+  {
+    "id": 4,
+    "name": "Suzuki Takeda 4C",
+    "price": 500000,
+    "description": " Suzuki Ertiga sở hữu cho mình phần đầu xe khá sang trọng khi được mạ crom gần như hoàn toàn lưới tản nhiệt.\r\n\r\n",
+    "shortDescription": "Mang đến cho người dùng sự rộng rãi và thoải mái khi di chuyển với thân hình đồ sộ a mình..\r\n\r\n",
+    "quantity": 2,
+    "image": "https://www.suckhoedothi.com/wp-content/uploads/2023/02/ava.jpg",
+    "hieuxe": "Suzuki"
+
+  },
+  {
+    "id": 5,
+    "name": "Mitsubishi Xpander 7C",
+    "price": 500000,
+    "description": "Mitsubishi Xpander là mẫu xe ô tô 7 chỗ giá rẻ rất được ưa chuộng tại thị trường xe ô tô Việt Nam.\r\n\r\n",
+    "shortDescription": "Ngoại hình a Mitsubishi Xpander khá bắt mắt khi áp dụng triết lý thiết kế “ DYNAMIC SHIELD” mới mẻ.\r\n\r\n",
+    "quantity": 1,
+    "image": "https://giaxehoi.vn/uploads/Xe/KIA/Sorento/2023/gia-xe-kia-sorento-2023-giaxehoi-vn-7-800x599.jpg",
+    "hieuxe": "Xpander"
+  },
+  {
+    "id": 2,
+    "name": "Thaco Garden 29C",
+    "price": 1500000,
+    "description": "Xe Thaco 29 chỗ được nhập khẩu khung gầm từ Hyundai Hàn Quốc nội địa hóa nội thất, thân vỏ và được lắp ráp tại nhà máy Hyundai Thaco chất lượng mới 100%.\r\n\r\n",
+    "shortDescription": "Đây là dòng xe khách đang rất được ưa chuộng tại Việt Nam bởi các tính năng về thông số kỹ thuật cũng như giá thành của xe vô cùng hợp lý.\r\n\r\n",
+    "quantity": 3,
+    "image": "https://gfavietnam.com.vn/uploads/products/gia-xe-29-cho-truong-hai-xe-29-cho-thaco-town-tb85-than-dai-8-5m-anh-so-41622074.jpeg",
+    "hieuxe": "Thaco"
+
+  },
+  
+  
+  {
+    "id": 8,
+    "name": "Thaco TB287 29C",
+    "price": 1500000,
+    "description": "Xe Thaco 29 chỗ được nhập khẩu khung gầm từ Hyundai Hàn Quốc nội địa hóa nội thất, thân vỏ và được lắp ráp tại nhà máy Hyundai Thaco chất lượng mới 100%.\r\n\r\n",
+    "shortDescription": "Đây là dòng xe khách đang rất được ưa chuộng tại Việt Nam bởi các tính năng về thông số kỹ thuật cũng như giá thành của xe vô cùng hợp lý.\r\n\r\n",
+    "quantity": 3,
+    "image": "https://img1.oto.com.vn/2019/11/24/20191124150057-15f0_wm.jpg",
+    "hieuxe": "Thaco"
+
+  },
+  {
+    "id": 7,
+    "name": "Hyndai Universe Prime 45C",
+    "price": 1000000,
+    "description": "Hyundai Universe 2022 là dòng xe khách cỡ lớn cao cấp nhất của Hyundai đươc thiết kế sang trọng và tinh tế đến từng chi tiết, trang bị cao cấp và tiện nghi, mang lại sự thoải mái tối đa cho hành khách.\r\n\r\n",
+    "shortDescription": "Hyundai Universe Nội thất rộng rãi, đẳng cấp.\r\n\r\n",
+    "quantity": 4,
+    "image": "https://cdn.vatgia.com/pictures/thumb/w500/2018/09/uue1536377221.jpg",
+    "hieuxe": "Huyndai"
+
+  },
+  {
+    "id": 9,
+    "name": "Thaco TB288 LUXURY 29C",
+    "price": 1500000,
+    "description": "Xe Thaco 29 chỗ được nhập khẩu khung gầm từ Hyundai Hàn Quốc nội địa hóa nội thất, thân vỏ và được lắp ráp tại nhà máy Hyundai Thaco chất lượng mới 100%.\r\n\r\n",
+    "shortDescription": "Đây là dòng xe khách đang rất được ưa chuộng tại Việt Nam bởi các tính năng về thông số kỹ thuật cũng như giá thành của xe vô cùng hợp lý",
+    "quantity": 2,
+    "image": "https://phumyphat.com/wp-content/uploads/2020/10/z2140997135221_f88796f707ad24e48221691b68eeee42.jpg",
+    "hieuxe": "Thaco"
+
+  },
+  {
+    "id": 10,
+    "name": "Thaco GARDEN LUXURY 29C",
+    "price": 1500000,
+    "description": "Xe Thaco 29 chỗ được nhập khẩu khung gầm từ Hyundai Hàn Quốc nội địa hóa nội thất, thân vỏ và được lắp ráp tại nhà máy Hyundai Thaco chất lượng mới 100%.\r\n\r\n",
+    "shortDescription": "Đây là dòng xe khách đang rất được ưa chuộng tại Việt Nam bởi các tính năng về thông số kỹ thuật cũng như giá thành của xe vô cùng hợp lý",
+    "quantity": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1jmYhSCPI9vKOAibLfRkB-rXCvhIw2tqQg-uwLXDJxrXZlt0CNYJsn1IyOJtFC2jMxc&usqp=CAU",
+    "hieuxe": "Thaco"
+
+  },
+  {
+    "id": 11,
+    "name": "Solati Luxury 16C",
+    "price": 500000,
+    "description": "Với chiều dài cơ sở lên đến 3670mm, xe khách Hyundai Solati mang đến cảm giác thoải mái với không gian NỘI THẤT thực sự rộng rãi.\r\n\r\n",
+    "shortDescription": "Với thiết kế sang trọng và đẳng cấp tạo nên sự khác biệt trên đường phố",
+    "quantity": 2,
+    "image": "https://hoamaitour.com/files/image_sanpham/cho-thue-xe-16-cho-ford-tra.jpg",
+    "hieuxe": "Solati"
+
+  },
+  {
+    "id": 3,
+    "name": "Solati Prime 16C",
+    "price": 500000,
+    "description": "Với chiều dài cơ sở lên đến 3670mm, xe khách Hyundai Solati mang đến cảm giác thoải mái với không gian NỘI THẤT thực sự rộng rãi.\r\n\r\n",
+    "shortDescription": "Với thiết kế sang trọng và đẳng cấp tạo nên sự khác biệt trên đường phố.\r\n\r\n",
+    "quantity": 4,
+    "image": "https://giaxeoto.vn/admin/upload/images/resize/640-gia-xe-hyundai-solati.jpg",
+    "hieuxe": "Solati"
+
+  },
+  {
+    "id": 12,
+    "name": "Huyndai Solati",
+    "price": 500000,
+    "description": "Với chiều dài cơ sở lên đến 3670mm, xe khách Hyundai Solati mang đến cảm giác thoải mái với không gian NỘI THẤT thực sự rộng rãi.\r\n\r\n",
+    "shortDescription": "Với thiết kế sang trọng và đẳng cấp tạo nên sự khác biệt trên đường phố",
+    "quantity": 3,
+    "image": "https://kenhxehyundai.vn/wp-content/uploads/2020/10/hyundai-solati.jpg",
+    "hieuxe": "Solati"
+    
+  } 
+]
